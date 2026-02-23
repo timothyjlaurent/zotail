@@ -1,5 +1,5 @@
 {
-  "name": "@ssdavidai/zotail",
+  "name": "@timothyjlaurent/zotail",
   "version": "1.2.0",
   "description": "Set up Tailscale on your Zo workspace with auto-restart on session reboot",
   "bin": {
@@ -18,6 +18,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ssdavidai/zotail.git"
+    "url": "https://github.com/timothyjlaurent/zotail.git"
   }
 }
